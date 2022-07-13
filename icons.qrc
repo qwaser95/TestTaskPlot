@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/start.webp</file>
+        <file>icons/pause.webp</file>
+        <file>icons/stop.png</file>
+    </qresource>
+</RCC>
